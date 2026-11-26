@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.python.org",
+    "title": "Welcome to Python.org",
+    "error": null,
+    "ms": 474
+  },
+  {
+    "url": "https://docs.python.org/3/",
+    "title": "Python 3.15.2 documentation",
+    "error": null,
+    "ms": 460
+  },
+  {
+    "url": "https://example.com",
+    "title": "Example Domain",
+    "error": null,
+    "ms": 450
+  },
+  {
+    "url": "https://www.wikipedia.org",
+    "title": "Wikipedia",
+    "error": null,
+    "ms": 808
+  },
+  {
+    "url": "https://github.com",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub",
+    "error": null,
+    "ms": 624
+  },
+  {
+    "url": "https://news.ycombinator.com",
+    "title": "Hacker News",
+    "error": null,
+    "ms": 1173
+  },
+  {
+    "url": "https://www.iana.org",
+    "title": "Internet Assigned Numbers Authority",
+    "error": null,
+    "ms": 73
+  },
+  {
+    "url": "https://www.rust-lang.org",
+    "title": "Rust Programming Language",
+    "error": null,
+    "ms": 282
+  },
+  {
+    "url": "https://does-not-exist.invalid",
+    "title": null,
+    "error": "[Errno 11001] getaddrinfo failed",
+    "ms": 69
+  },
+  {
+    "url": "https://httpbin.org/delay/10",
+    "title": null,
+    "error": "timeout",
+    "ms": 5440
+  }
+]
