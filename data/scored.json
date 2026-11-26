@@ -1,0 +1,154 @@
+[
+  {
+    "company": "Desert Motors",
+    "country": "UAE",
+    "industry": "automotive",
+    "signal_date": "2026-11-20",
+    "website": "https://desertmotors.ae",
+    "score": 100
+  },
+  {
+    "company": "Thames Lending",
+    "country": "UK",
+    "industry": "fintech",
+    "signal_date": "2026-11-26",
+    "website": "https://thameslending.co.uk",
+    "score": 100
+  },
+  {
+    "company": "Gulf Estates",
+    "country": "Saudi Arabia",
+    "industry": "real_estate",
+    "signal_date": "2026-10-27",
+    "website": "https://gulfestates.sa",
+    "score": 100
+  },
+  {
+    "company": "Sterling Motors",
+    "country": "USA",
+    "industry": "automotive",
+    "signal_date": "2026-11-05",
+    "website": "https://sterlingmotors.com",
+    "score": 100
+  },
+  {
+    "company": "Harbor Autos",
+    "country": "usa",
+    "industry": "Automotive",
+    "signal_date": "2026-10-26",
+    "website": "https://harborautos.com",
+    "score": 80
+  },
+  {
+    "company": "Crown Residences",
+    "country": " UAE ",
+    "industry": " REAL_ESTATE ",
+    "signal_date": "2026-09-27",
+    "website": "https://crownresidences.ae",
+    "score": 80
+  },
+  {
+    "company": "Emirates Couture",
+    "country": "uae",
+    "industry": "LUXURY",
+    "signal_date": "2026-09-10",
+    "website": "https://emiratescouture.ae",
+    "score": 80
+  },
+  {
+    "company": "Maison Velour",
+    "country": "France",
+    "industry": "luxury",
+    "signal_date": "2026-11-14",
+    "website": "https://maisonvelour.fr",
+    "score": 70
+  },
+  {
+    "company": "Brightpath Health",
+    "country": "USA",
+    "industry": "healthcare",
+    "signal_date": "2026-11-23",
+    "website": "https://brightpath.health",
+    "score": 70
+  },
+  {
+    "company": "Coastline Realty",
+    "country": "Spain",
+    "industry": "real_estate",
+    "signal_date": "2026-11-24",
+    "website": "https://coastlinerealty.es",
+    "score": 70
+  },
+  {
+    "company": "Prairie Insurance",
+    "country": "USA",
+    "industry": "insurance",
+    "signal_date": "2026-11-25",
+    "website": "https://prairieinsurance.com",
+    "score": 70
+  },
+  {
+    "company": "Atlas Jewellers",
+    "country": "UK",
+    "industry": "luxury",
+    "signal_date": "2026-08-27",
+    "website": "https://atlasjewellers.co.uk",
+    "score": 60
+  },
+  {
+    "company": "Riyadh Pay",
+    "country": "Saudi Arabia",
+    "industry": "fintech",
+    "signal_date": "2026-07-29",
+    "website": "https://riyadhpay.sa",
+    "score": 60
+  },
+  {
+    "company": "Nordic Ledger",
+    "country": "Sweden",
+    "industry": "fintech",
+    "signal_date": "2026-08-28",
+    "website": "https://nordicledger.se",
+    "score": 50
+  },
+  {
+    "company": "Pacific Homes",
+    "country": "Australia",
+    "industry": "real_estate",
+    "signal_date": "2026-10-12",
+    "website": "https://pacifichomes.com.au",
+    "score": 50
+  },
+  {
+    "company": "Kestrel Logistics",
+    "country": "Germany",
+    "industry": "logistics",
+    "signal_date": "2026-11-01",
+    "website": "https://kestrel-logistics.de",
+    "score": 40
+  },
+  {
+    "company": "Sakura Foods",
+    "country": "Japan",
+    "industry": "food",
+    "signal_date": "2026-11-10",
+    "website": "https://sakurafoods.jp",
+    "score": 40
+  },
+  {
+    "company": "Lumen Studios",
+    "country": "USA",
+    "industry": "media",
+    "signal_date": "2026-05-10",
+    "website": "https://lumenstudios.com",
+    "score": 30
+  },
+  {
+    "company": "Indus Textiles",
+    "country": "India",
+    "industry": "textiles",
+    "signal_date": "2026-10-01",
+    "website": "https://industextiles.in",
+    "score": 20
+  }
+]
